@@ -1,0 +1,1 @@
+# Time-index-streak-detection-algorithm
