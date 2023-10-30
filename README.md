@@ -17,4 +17,17 @@ Thee secound version is the Faster vaariation:
   _draw_ == 1 means it saves an image with the extremes marked in it
 
 The files **TI_hybrid_app.py** and **TI_app.py** run the fast algorithm on a app powered by streamlit, and can be called by running the following code: 
+
 _streamlit run TI_app.py_
+
+
+**Requirements:**
+- Python 3.10.9;
+- scikit-image 0.19.3;
+- numpy 1.24.3;
+- numba 0.57.0;
+- astropy 5.2.1;
+- photutils 1.8.0;
+- matplotlib 3.6.2;
+- pandas 1.5.3;
+- streamlit 1.24.1(optional).
